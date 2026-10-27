@@ -1,1 +1,3 @@
-# mipt-recsys
+# recsys
+
+Головин Иван
